@@ -1,0 +1,34 @@
+[
+  {
+    "path": "moviedata.txt",
+    "recovered_source_sha256": "fc1a8103a79f5a117633873ab65a871f9eb38519a3f11260feb7a76ce7448179"
+  },
+  {
+    "path": "movieratings.csv",
+    "recovered_source_sha256": "969d4b490011ae77c6130aa272819ea2448bde094b3f1328590efa781e5ad8ea"
+  },
+  {
+    "path": "src/MovieTrivia.java",
+    "recovered_source_sha256": "fef3d1d98c947dba5d19ea08cbc30b9b55eab416de00a51cd0736ad915adca78"
+  },
+  {
+    "path": "src/MovieTriviaTest.java",
+    "recovered_source_sha256": "a89a380232a5aef5db86bcb2d923a040842ff5b02bcfdb80a946ffe3ccd087bb"
+  },
+  {
+    "path": "src/file/MovieDB.java",
+    "recovered_source_sha256": "1ec9c453cc452c1e5c6b98f67d248e576bccb9956f5b7b078f90f458dbc29eea"
+  },
+  {
+    "path": "src/file/MovieDBTest.java",
+    "recovered_source_sha256": "78647913dd48dbe7de44038fcf0315bc5d9f4b0bb999d973de5290aef4266b98"
+  },
+  {
+    "path": "src/movies/Actor.java",
+    "recovered_source_sha256": "913c64db1f9053c27faa25cf793063fa563ea0036ce4212157595c661642c859"
+  },
+  {
+    "path": "src/movies/Movie.java",
+    "recovered_source_sha256": "5f2a1dde08ce8f101504bff300e6a9040e73cb0a548e68826487a6e0cb112ffa"
+  }
+]
