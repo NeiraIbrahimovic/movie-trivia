@@ -1,0 +1,11 @@
+{
+  "project": "movie-trivia",
+  "compile_exit": 0,
+  "test_exit": 0,
+  "passed": [
+    "14"
+  ],
+  "failed": [
+    "0"
+  ]
+}
